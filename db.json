@@ -1,14 +1,124 @@
+[
+   {
+    "result":{
+       "status":1,
+       "msg":"操作成功"
+   },
+
+  "userFocusResInfo": 
+    {
+     "remainPageNum":12,
+     "info_name":"海淀西北旺镇18642平方米房屋海淀西北旺镇18642平方米房屋",
+     "info_sunmary":"该项目位环越1公里海淀西北旺镇38642平方米房屋",
+     "follow_time":"2019年4月25日",
+     "publisher_name":"李四"
+    },
+   },
+   {
+       "result":{
+           "status":1,
+           "msg":"操作成功"
+       },
+       "userFocusResInfo";
+       {
+           "remainPageNum":12,
+           "info_name":"丰台区东北旺镇1234平方米房屋丰台区东北旺镇1234平方米房屋",
+           "info_sunmary":"该项目位环越1公里海淀西北旺镇38642平方米房屋",
+           "follow_time":"2019年4月25日",
+           "publisher_name":"李五"
+       },
+       {
+       "result":{
+           "status":1,
+           "msg":"操作成功"
+       },
+       "userFocusResInfo";
+       {
+           "remainPageNum":12,
+           "info_name":"朝阳区东南旺525223平方米房屋朝阳区东南旺52533平方米房屋",
+           "info_sunmary":"该项目位环越1公里海淀西北旺镇38642平方米房屋",
+           "follow_time":"2019年4月25日",
+           "publisher_name":"李五"
+       },
+
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+       "result":{
+           "status":1,
+           "msg":"操作成功"
+       },
+       "userFocusResInfo";
+       {
+           "remainPageNum":12,
+           "info_name":"丰台区东北旺镇1234平方米房屋丰台区东北旺镇1234平方米房屋",
+           "info_sunmary":"该项目位环越1公里海淀西北旺镇38642平方米房屋",
+           "follow_time":"2019年4月25日",
+           "publisher_name":"李五"
+       },
+{
+       "result":{
+           "status":1,
+           "msg":"操作成功"
+       },
+       "userFocusResInfo";
+       {
+           "remainPageNum":12,
+           "info_name":"丰台区东北旺镇1234平方米房屋丰台区东北旺镇1234平方米房屋",
+           "info_sunmary":"该项目位环越1公里海淀西北旺镇38642平方米房屋",
+           "follow_time":"2019年4月25日",
+           "publisher_name":"李五"
+       },
+{
+       "result":{
+           "status":1,
+           "msg":"操作成功"
+       },
+       "userFocusResInfo";
+       {
+           "remainPageNum":12,
+           "info_name":"丰台区东北旺镇1234平方米房屋丰台区东北旺镇1234平方米房屋",
+           "info_sunmary":"该项目位环越1公里海淀西北旺镇38642平方米房屋",
+           "follow_time":"2019年4月25日",
+           "publisher_name":"李五"
+       },
+{
+       "result":{
+           "status":1,
+           "msg":"操作成功"
+       },
+       "userFocusResInfo";
+       {
+           "remainPageNum":12,
+           "info_name":"丰台区东北旺镇1234平方米房屋丰台区东北旺镇1234平方米房屋",
+           "info_sunmary":"该项目位环越1公里海淀西北旺镇38642平方米房屋",
+           "follow_time":"2019年4月25日",
+           "publisher_name":"李五"
+       },
+{
+       "result":{
+           "status":1,
+           "msg":"操作成功"
+       },
+       "userFocusResInfo";
+       {
+           "remainPageNum":12,
+           "info_name":"丰台区东北旺镇1234平方米房屋丰台区东北旺镇1234平方米房屋",
+           "info_sunmary":"该项目位环越1公里海淀西北旺镇38642平方米房屋",
+           "follow_time":"2019年4月25日",
+           "publisher_name":"李五"
+       },
+{
+       "result":{
+           "status":1,
+           "msg":"操作成功"
+       },
+       "userFocusResInfo";
+       {
+           "remainPageNum":12,
+           "info_name":"丰台区东北旺镇1234平方米房屋丰台区东北旺镇1234平方米房屋",
+           "info_sunmary":"该项目位环越1公里海淀西北旺镇38642平方米房屋",
+           "follow_time":"2019年4月25日",
+           "publisher_name":"李五"
+       },
+
+  ]
